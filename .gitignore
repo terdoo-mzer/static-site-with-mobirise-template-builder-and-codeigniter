@@ -1,0 +1,8 @@
+# Mobirise template file
+mob
+
+# Environment variables
+.env
+
+# CI
+vendor
